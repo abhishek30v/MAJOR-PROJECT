@@ -189,3 +189,9 @@ body {
   color: white;
   text-decoration: none;
 }
+
+/*Map */
+#map {
+  height: 400px;
+  width: 90vh;
+}
